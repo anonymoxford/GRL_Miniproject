@@ -1,2 +1,2 @@
 # GRL_Miniproject
-This is a student's code for their Graph Representation Learning miniproject over the vacation between MT2023 and HT2024. The code in pytorch_geometric is taken from https://github.com/lukecavabarrett/pna.
+This is a student's code for their Graph Representation Learning miniproject over the vacation between MT2023 and HT2024. The code in pytorch_geometric is taken from https://github.com/lukecavabarrett/pna. main_Planetoid.py can be run to train on the Planetoid dataset (node classification task) and main_TUDataset.py can be run to train on the TUDataset (graph classification task).
